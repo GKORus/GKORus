@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Kirill
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer</h3>
 
-<!--
-**GKORus/GKORus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, Django, PostgreSQL, SQLite, Docker
+- REST API, CI/CD, Nginx, Gunicorn, Unit Testing, Pytest
+- Google Cloud Platform
+
+My contacts:
+
+- Telegram - <a href="https://t.me/KG_OLEGOVICH" target="_blank">@KG_OLEGOVICH</a> 
+- E-mail - <a href="mailto:kirill.golovin.git@mail.ru" target="_blank">kirill.golovin.git@mail.ru</a>
